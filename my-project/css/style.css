@@ -1,0 +1,183 @@
+
+body {
+    background-color: #FBFBFB;
+}
+
+.container__1 {
+    width: 1579px;
+    height: 897px;
+}
+
+.header__navigation {
+    width: 1235px;
+    height: 76px;
+    display: flex;
+    margin: 60px 341px 0 344px;
+}
+
+.logo__container__1 {
+    width: 892px;
+    height: 813px;
+    position: absolute;
+    left: 1030px;
+    background-image: url(../icons/Group.png);
+    background-position:right, top;
+    z-index: -1;
+    bottom: 107px;
+    top: 0;
+}
+
+.navigation__logo {
+    width: 367px;
+    height: 76px;
+}
+
+.navigation__logo__img {
+    height: 76px;
+    width: 367px;
+}
+
+.navigation__menu {
+    width: 386px;
+    height: 76px;
+    display: flex;
+    align-items: center;
+    margin: 0 126px 0 126px;
+    
+}
+
+.navigation__help {
+    height: 19px;
+    width: 386px;
+    text-align: center;
+    display: flex;
+}
+
+.vector {
+    width: 7px;
+    height: 3px;
+}
+
+.navigation__Home {
+    color: #5EB083;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.navigation__help ul {
+    width: 386px;
+}
+
+li {
+    display: inline;
+    margin-right: 60px;
+    font-size: 16px;
+}
+
+li:last-child {
+    margin-right: 0px;
+}
+
+.navigation__button {
+    height: 76px;
+    display: flex;
+    list-style-type: none;
+}
+.navigation__button__1 {
+    height: 60px;
+    width: 230px;
+    list-style-type: none;
+    border-radius: 60px;
+    background-color: #5EB083;
+    border: none;
+    margin-top: 8px;
+}
+
+.navigation__button__text {
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.navigation__button__icon {
+    height: 18px;
+    width: 18px;
+    margin-right: 10px;
+}
+
+.main__section__1 {
+    width: 625px;
+    height: 466px;
+    border: 1px solid black;
+    margin-left: 344px;
+    margin-top: 147px;
+}
+
+h1 {
+    font-size: 70px;
+    line-height: 84.91px;
+}
+
+.section__1__h1 {
+    color: #5EB083;
+}
+
+.section__1__main__text {
+    color: #32333D;
+    font-size: 24px;
+    line-height: 38px;
+}
+
+.section__1__container__h1 {
+    width: 565px;
+    height: 255px;
+}
+
+.section__1__container__p {
+    width: 501px;
+    height: 76px;
+    margin-top: 30px;
+}
+
+.main__section__1__button {
+    height: 75px;
+    width: 250px;
+    list-style-type: none;
+    border-radius: 60px;
+    background-color: #FFBB8A;
+    border: none;
+}
+
+.section__1__container__button__info {
+    width: 625px;
+    height: 75px;
+    display: flex;
+    margin-top: 30px;
+}
+
+.section__1__button__text {
+    text-align: center;
+    font-size: 16px;
+    color: #FFFFFF;
+    line-height: 75px;
+}
+
+.main__section__1__text__explanation {
+    width: 335px;
+    height: 52px;
+    margin: 11.5px 0 11.5px 40px;
+}
+
+.section__1__explanation-text {
+    font-size: 16px;
+    color: #CAD3E0;
+    line-height: 26px;
+}
+
+.logo__boy {
+    width: 929px;
+    height: 813px;
+}
+
